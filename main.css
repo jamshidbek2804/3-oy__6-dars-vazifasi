@@ -1,0 +1,19 @@
+.container {
+  max-width: 500px;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+input {
+  margin: 20px 0;
+}
+
+#demo {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 25px;
+  padding-top: 10px;
+  color: dimgray;
+}
